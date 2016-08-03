@@ -6,7 +6,7 @@ I'm a fresh man here!
 
 This is created by Keithly on 3rd Aug. 2016.
 
-It has been done with "https://guides.github.com/activities/hello-world/".
+It has been done with following "https://guides.github.com/activities/hello-world/".
 
 Thanks all!
 
